@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1042514669062",
+    "firebase_url": "https://klam-9999-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "klam-9999",
+    "storage_bucket": "klam-9999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042514669062:android:62506011887328f569dd87",
+        "android_client_info": {
+          "package_name": "com.example.chatting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxweVjc_U0P2YRfwlxmONHX3Taw-fPSh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
